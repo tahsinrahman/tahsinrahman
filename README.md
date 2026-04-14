@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/tahsin-rahman-10/">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="mailto:tahsynx@gmail.com">
+<a href="mailto:tahsin8243@gmail.com">
   <img align="left" alt="LinkedIN" width="22px" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/>
 </a>
 
